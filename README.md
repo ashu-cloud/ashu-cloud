@@ -133,7 +133,7 @@
       <td><em>1834(max)</em></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=445f9d" /></td>
+      <td><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" /></td>
       <td><a href="https://www.codechef.com/users/ashu_cloud_29">ashu-cloud_29</a></td>
       <td><em>3 *</em></td>
     </tr>
