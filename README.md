@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
-  <a href="mailto:ashu-cloud@example.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://leetcode.com/ashu-cloud"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://codeforces.com/profile/ashu-cloud"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashu-panchal-24b5bb189/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
+  <a href="mailto:ashupanchal8360@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+  <a href="https://leetcode.com/u/AshuPanchal/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://www.codechef.com/users/ashu_cloud_29"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </div>
 
 <br />
@@ -37,23 +37,46 @@
 <div align="center">
   <p><strong>Languages</strong></p>
   <img src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C" />
-  <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
+  <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-  <p><strong>Frontend & Backend</strong></p>
-  <img src="https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
-  <img src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <p><strong>Frontend</strong></p>
+  <img src="https://img.shields.io/badge/react.js-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux_toolkit-000000.svg?style=for-the-badge&logo=redux&logoColor=764ABC" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
 
-  <p><strong>Databases & AI</strong></p>
-  <img src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b" />
+  <p><strong>Backend & Auth</strong></p>
+  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-000000.svg?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-000000.svg?style=for-the-badge&logo=clerk&logoColor=white" />
+
+  <p><strong>Databases & ORMs</strong></p>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192" />
-  <img src="https://img.shields.io/badge/Gemini%20API-000000?style=for-the-badge&logo=googlebard&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b" />
+  <img src="https://img.shields.io/badge/Redis-000000.svg?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/ElasticSearch-000000.svg?style=for-the-badge&logo=elasticsearch&logoColor=005571" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-000000.svg?style=for-the-badge&logo=drizzle&logoColor=C5F74F" />
 
-  <p><strong>DevOps & Tools</strong></p>
+  <p><strong>Systems & DevOps</strong></p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+
+  <p><strong>Architecture & Integrations</strong></p>
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini%20API-000000?style=for-the-badge&logo=googlebard&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/Groq_(LLaMA)-000000?style=for-the-badge" />
 </div>
 
 ---
