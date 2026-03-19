@@ -129,13 +129,13 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" /></td>
-      <td><a href="https://leetcode.com/ashu-cloud">ashu-cloud</a></td>
-      <td><em>Update Rating Here</em></td>
+      <td><a href="https://leetcode.com/u/AshuPanchal">Ashu Panchal</a></td>
+      <td><em>1834(max)</em></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=445f9d" /></td>
-      <td><a href="https://codeforces.com/profile/ashu-cloud">ashu-cloud</a></td>
-      <td><em>Update Rating Here</em></td>
+      <td><a href="https://www.codechef.com/users/ashu_cloud_29">ashu-cloud_29</a></td>
+      <td><em>3 *</em></td>
     </tr>
   </table>
 </div>
