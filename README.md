@@ -27,7 +27,7 @@
 
 * 🔭 I'm currently a **3rd-year IT engineering student** focusing on scalable full-stack development.
 * 💻 I build production-ready applications, including an AI-powered learning platform (**PrepPath**) and a stock trading system (**TradePulse**).
-* 🌱 Currently architecting a SaaS webinar platform (**Spotlight**) with AI voice agents.
+* 🌱 Currently deep-diving into advanced **System Design & SaaS Architecture**.
 * ⚡ Strong passion for **Competitive Programming** and problem-solving in **C++**.
 
 ---
@@ -105,20 +105,12 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h4>🕵️ Nymity</h4>
       <p>A full-stack anonymous feedback platform built with a focus on privacy.</p>
       <ul>
         <li>✅ Secure identity protection</li>
         <li>✅ Scalable database architecture</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎙️ Spotlight (In Progress)</h4>
-      <p>SaaS webinar platform featuring AI voice agents.</p>
-      <ul>
-        <li>✅ System design & architecture phase</li>
-        <li>✅ AI voice integration planning</li>
       </ul>
     </td>
   </tr>
