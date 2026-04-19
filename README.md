@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://docs.google.com/document/d/1-Yjb5ENYOD2Vs0dJ_CEWB1U7fV6E2rJllVRu3-bMotE/edit?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ashu-panchal-24b5bb189/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
   <a href="mailto:ashupanchal8360@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
   <a href="https://leetcode.com/u/AshuPanchal/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
