@@ -26,7 +26,7 @@
 | 🏆 LeetCode | 🌟 CodeChef | 📚 CGPA | 🗂️ Repos | 🎓 Certs |
 |:-----------:|:-----------:|:-------:|:--------:|:--------:|
 | **1834** peak rating | **3★** peak | **7.8 / 10** | **20+** public | **2× Oracle OCI** |
-| Top 6.5% globally | Div. 2 | JSS Academy, Noida | TypeScript · Python · C++ | Gen AI · AI Foundations |
+| Top 6.5% globally | Div. 2 | JSS Academy, Noida | JavaScript · Python · C++ | Gen AI · AI Foundations |
 
 </div>
 
@@ -47,8 +47,8 @@ const ashu = {
   ],
 
   stack:    {
-    primary:  ["TypeScript", "Node.js", "Next.js", "PostgreSQL", "Redis"],
-    growing:  ["Python", "FastAPI", "Celery", "Docker", "Kubernetes"],
+    primary:  ["JavaScript"."TypeScript", "Node.js", "Next.js", "Python", "FastAPI", "PostgreSQL", "Redis"],
+    growing:  [ "Celery", "Docker", "Kubernetes"],
     ai:       ["OpenAI", "Anthropic Claude", "Groq / LLaMA", "Google Gemini"],
   },
 
