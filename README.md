@@ -52,28 +52,73 @@ class AshuPanchal:
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,postgres&theme=dark" />
 
 ### Backend & Runtime
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,bun&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF3333?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-000000?style=flat-square&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6E40C9?style=flat-square&logoColor=white)
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind&theme=dark" />
 
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-18181B?style=flat-square&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
 ### Databases & Caching
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing_%26_Query_Opt-316192?style=flat-square&logoColor=white)
+![Transactions](https://img.shields.io/badge/ACID_Transactions-47A248?style=flat-square&logoColor=white)
 
 ### AI / LLM *(actively deepening)*
 <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
 
-`GPT-4o` &nbsp;`Anthropic Claude` &nbsp;`Google Gemini` &nbsp;`Groq / LLaMA` &nbsp;`OpenRouter`
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D4845A?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_%2F_LLaMA-F55036?style=flat-square&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-18181B?style=flat-square&logoColor=white)
 
-`RAG Architecture` &nbsp;`Prompt Engineering` &nbsp;`LLM Pipelines` &nbsp;`Agentic Workflows`
+![RAG](https://img.shields.io/badge/RAG_Architecture-0078D4?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logoColor=white)
+![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-6E40C9?style=flat-square&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-1DB954?style=flat-square&logoColor=white)
+![Provider Failover](https://img.shields.io/badge/Provider_Failover-DC2626?style=flat-square&logoColor=white)
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vercel,postman&theme=dark" />
 
-`CI/CD` &nbsp;`Argo CD` &nbsp;`Render` &nbsp;`Prisma ORM` &nbsp;`Drizzle ORM` &nbsp;`Claude Code` &nbsp;`Cursor`
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4845A?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-18181B?style=flat-square&logoColor=white)
+
+### Testing & Debugging
+<img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=flat-square&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-16A34A?style=flat-square&logoColor=white)
+![Structured Logging](https://img.shields.io/badge/Structured_Logging-6B7280?style=flat-square&logoColor=white)
 
 ### Core CS
-`DSA` &nbsp;`System Design` &nbsp;`OOP` &nbsp;`DBMS` &nbsp;`Operating Systems` &nbsp;`Computer Networks`
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-F59E0B?style=flat-square&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square&logoColor=white)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-8B5CF6?style=flat-square&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-316192?style=flat-square&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CN](https://img.shields.io/badge/Computer_Networks-0EA5E9?style=flat-square&logoColor=white)
 
 </div>
 
